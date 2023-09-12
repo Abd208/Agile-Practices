@@ -1,0 +1,41 @@
+# Agile Practices
+
+Agile practices are a set of principles and methodologies for software development and project management that prioritize flexibility, collaboration, and customer satisfaction. Agile approaches aim to deliver high-quality products or services in small, incremental steps while adapting to changing requirements and feedback throughout the project's lifecycle. Here are some key aspects and practices associated with Agile:
+
+## Iterative and Incremental Development
+Agile teams break down a project into small, manageable increments or iterations. Each iteration typically spans 2-4 weeks and results in a potentially shippable product increment. This approach allows for continuous improvement and frequent releases.
+
+## Customer-Centric
+Agile puts a strong emphasis on understanding and meeting customer needs. Customer feedback is actively sought throughout the project, and changes are made based on this feedback to ensure that the product or service aligns with customer expectations.
+
+## Cross-Functional Teams
+Agile teams are typically cross-functional, consisting of members with diverse skills necessary to complete the work. This promotes collaboration, faster decision-making, and a shared sense of responsibility.
+
+## Prioritization
+Agile teams use techniques like user stories and product backlogs to prioritize work. Features and tasks are ranked based on their value to the customer and the project's goals, allowing the team to focus on the most critical items first.
+
+## Time-Boxed Sprints
+Agile projects are divided into fixed-duration time periods called sprints or iterations. During each sprint, the team selects a set of tasks from the backlog to work on, aiming to complete them by the end of the sprint.
+
+## Daily Stand-Up Meetings
+Agile teams hold daily stand-up meetings, also known as daily scrums, where team members share progress, discuss any impediments, and plan their work for the day. These short meetings help keep the team aligned and address issues promptly.
+
+## Continuous Integration and Testing
+Code is continuously integrated into the main project repository, and automated testing is performed regularly to catch issues early in the development process. This ensures that the product remains stable and functional.
+
+## Adaptation and Flexibility
+Agile methodologies embrace change. If new information or requirements emerge during development, the team can adjust their plans and priorities accordingly, ensuring that the product remains relevant and valuable.
+
+## Retrospectives
+At the end of each sprint or iteration, Agile teams hold retrospectives to reflect on what went well, what didn't, and how to improve. This practice promotes a culture of continuous improvement.
+
+## Visible Progress
+Agile teams often use visual management tools like Kanban boards or Scrum boards to make work progress and priorities transparent to all team members. This helps in managing work efficiently and identifying bottlenecks.
+
+## Definition of Done (DoD)
+Teams define clear criteria for what constitutes a task or feature as "done." This ensures a common understanding of quality and completeness.
+
+## Scaling Agile
+For larger projects or organizations, there are scaling frameworks such as SAFe (Scaled Agile Framework), LeSS (Large Scale Scrum), and others, which extend Agile principles to multiple teams and complex environments.
+
+Agile practices have been widely adopted not only in software development but also in various industries where flexibility, responsiveness to change, and customer satisfaction are critical. They provide a structured yet adaptable approach to managing projects and delivering value in a dynamic and uncertain world.
